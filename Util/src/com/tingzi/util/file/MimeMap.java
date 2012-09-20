@@ -15,7 +15,7 @@
  *  limitations under the License.
  */
 
-package com.zjt.util.file;
+package com.tingzi.util.file;
 
 import java.net.FileNameMap;
 import java.util.Enumeration;

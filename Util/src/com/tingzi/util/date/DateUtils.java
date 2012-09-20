@@ -24,7 +24,7 @@
  * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-package com.zjt.util.date;
+package com.tingzi.util.date;
 
 import java.util.Calendar;
 import java.util.Date;
